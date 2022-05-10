@@ -13,8 +13,8 @@ public class practise {
 
 	public void tests() {
    Scanner a=new Scanner(System.in);
-   System.out.println("Enter the name");
-   String b=a.next();
-   System.out.println("Entered name is "+b);
+   System.out.println("Enter the number");
+   int b=a.nextInt();
+   System.out.println("Entered number is "+b);
    }
 	} 
